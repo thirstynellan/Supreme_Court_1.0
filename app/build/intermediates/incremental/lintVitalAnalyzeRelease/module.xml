@@ -1,0 +1,19 @@
+<lint-module
+    format="1"
+    dir="/Users/geoffreydraper/Documents/AndroidStudioProjects/Supreme_Court_1.0/app"
+    name=":app"
+    type="APP"
+    maven="Supreme_Court_1.0:app:unspecified"
+    agpVersion="8.10.1"
+    buildFolder="build"
+    bootClassPath="/Users/geoffreydraper/Library/Android/sdk/platforms/android-36/android.jar:/Users/geoffreydraper/Library/Android/sdk/build-tools/35.0.0/core-lambda-stubs.jar"
+    javaSourceLevel="16"
+    compileTarget="android-36"
+    neverShrinking="true">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

@@ -1,0 +1,15 @@
+edu.byuh.cis.ussupremecourt.app-lifecycle-runtime-2.6.2-0 /Users/geoffreydraper/.gradle/caches/8.11.1/transforms/1827894eec31d66c2968c9674bc3cef9/transformed/lifecycle-runtime-2.6.2/res
+edu.byuh.cis.ussupremecourt.app-core-runtime-2.2.0-1 /Users/geoffreydraper/.gradle/caches/8.11.1/transforms/2a1b46d999d6e65acb08edd5f05ec9f7/transformed/core-runtime-2.2.0/res
+edu.byuh.cis.ussupremecourt.app-annotation-experimental-1.4.1-2 /Users/geoffreydraper/.gradle/caches/8.11.1/transforms/63167e3a9ee70eee314d310369817ab9/transformed/annotation-experimental-1.4.1/res
+edu.byuh.cis.ussupremecourt.app-tracing-1.2.0-3 /Users/geoffreydraper/.gradle/caches/8.11.1/transforms/a4d045ddeb61a4e2b19aa1b7171e6a14/transformed/tracing-1.2.0/res
+edu.byuh.cis.ussupremecourt.app-core-1.17.0-4 /Users/geoffreydraper/.gradle/caches/8.11.1/transforms/ca8603d6555967675438da3028160b31/transformed/core-1.17.0/res
+edu.byuh.cis.ussupremecourt.app-profileinstaller-1.3.0-5 /Users/geoffreydraper/.gradle/caches/8.11.1/transforms/d75aa418aa277d47d0bc34cdee645e15/transformed/profileinstaller-1.3.0/res
+edu.byuh.cis.ussupremecourt.app-startup-runtime-1.1.1-6 /Users/geoffreydraper/.gradle/caches/8.11.1/transforms/ec135ffeeda0a0f8af22ec5aa3504259/transformed/startup-runtime-1.1.1/res
+edu.byuh.cis.ussupremecourt.app-core-viewtree-1.0.0-7 /Users/geoffreydraper/.gradle/caches/8.11.1/transforms/fc5aa1a655ebb8588e7faa8e523c19d3/transformed/core-viewtree-1.0.0/res
+edu.byuh.cis.ussupremecourt.app-pngs-8 /Users/geoffreydraper/Documents/AndroidStudioProjects/Supreme_Court_1.0/app/build/generated/res/pngs/release
+edu.byuh.cis.ussupremecourt.app-resValues-9 /Users/geoffreydraper/Documents/AndroidStudioProjects/Supreme_Court_1.0/app/build/generated/res/resValues/release
+edu.byuh.cis.ussupremecourt.app-mergeReleaseResources-10 /Users/geoffreydraper/Documents/AndroidStudioProjects/Supreme_Court_1.0/app/build/intermediates/incremental/release/mergeReleaseResources/merged.dir
+edu.byuh.cis.ussupremecourt.app-mergeReleaseResources-11 /Users/geoffreydraper/Documents/AndroidStudioProjects/Supreme_Court_1.0/app/build/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+edu.byuh.cis.ussupremecourt.app-release-12 /Users/geoffreydraper/Documents/AndroidStudioProjects/Supreme_Court_1.0/app/build/intermediates/merged_res/release/mergeReleaseResources
+edu.byuh.cis.ussupremecourt.app-main-13 /Users/geoffreydraper/Documents/AndroidStudioProjects/Supreme_Court_1.0/app/src/main/res
+edu.byuh.cis.ussupremecourt.app-release-14 /Users/geoffreydraper/Documents/AndroidStudioProjects/Supreme_Court_1.0/app/src/release/res

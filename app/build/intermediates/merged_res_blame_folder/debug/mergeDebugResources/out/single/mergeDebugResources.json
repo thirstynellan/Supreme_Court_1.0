@@ -1,0 +1,534 @@
+[
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_john_archibald_campbell.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/john_archibald_campbell.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_henry_billings_brown.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/henry_billings_brown.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_stanley_forman_reed.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/stanley_forman_reed.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_william_hubbs_rehnquist.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/william_hubbs_rehnquist.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/xml_progress.xml.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/xml/progress.xml"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_louis_brandeis.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/louis_brandeis.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_brett_m_kavanaugh.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/brett_m_kavanaugh.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_ketanji_brown_jackson.jpeg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/ketanji_brown_jackson.jpeg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_george_sutherland.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/george_sutherland.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_edward_terry_sanford.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/edward_terry_sanford.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/menu_main.xml.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/menu/main.xml"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_neil_m_gorsuch.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/neil_m_gorsuch.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_abe_fortas.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/abe_fortas.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_john_hessin_clarke.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/john_hessin_clarke.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_av_next.png.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/av_next.png"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_james_f_byrnes.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/james_f_byrnes.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_melville_fuller.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/melville_fuller.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_david_josiah_brewer.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/david_josiah_brewer.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_samuel_nelson.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/samuel_nelson.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_morrison_waite.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/morrison_waite.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_james_moore_wayne.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/james_moore_wayne.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_john_paul_stevens.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/john_paul_stevens.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_charles_evans_whittaker.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/charles_evans_whittaker.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_ruth_bader_ginsburg.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/ruth_bader_ginsburg.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_sonia_sotomayor.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/sonia_sotomayor.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_john_blair_jr.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/john_blair_jr.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_philip_pendleton_barbour.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/philip_pendleton_barbour.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_william_howard_taft.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/william_howard_taft.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_robert_cooper_grier.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/robert_cooper_grier.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_robert_trimble.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/robert_trimble.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_owen_josephus_roberts.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/owen_josephus_roberts.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_antonin_scalia.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/antonin_scalia.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_roger_b_taney.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/roger_b_taney.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_george_shiras_jr.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/george_shiras_jr.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_benjamin_n_cardozo.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/benjamin_n_cardozo.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_anthony_kennedy.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/anthony_kennedy.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_earl_warren.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/earl_warren.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_oliver_ellsworth.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/oliver_ellsworth.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_edward_douglas_white.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/edward_douglas_white.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_potter_stewart.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/potter_stewart.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_oliver_wendell_holmes_jr.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/oliver_wendell_holmes_jr.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/layout_main.xml.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/layout/main.xml"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_rufus_wheeler_peckham.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/rufus_wheeler_peckham.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_james_c_mcreynolds.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/james_c_mcreynolds.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/xml_thumb.xml.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/xml/thumb.xml"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_joseph_mckenna.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/joseph_mckenna.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_navigation_back.png.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/navigation_back.png"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_lucius_quintus_cincinnatus_lamar_ii.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/lucius_quintus_cincinnatus_lamar_ii.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_harlan_fiske_stone.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/harlan_fiske_stone.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/xml_options.xml.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/xml/options.xml"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_elena_kagan.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/elena_kagan.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_gabriel_duvall.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/gabriel_duvall.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_smith_thompson.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/smith_thompson.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_william_johnson.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/william_johnson.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_felix_frankfurter.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/felix_frankfurter.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_alfred_moore.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/alfred_moore.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_stephen_breyer.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/stephen_breyer.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_john_mclean.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/john_mclean.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_ic_action_go_to_today.png.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/ic_action_go_to_today.png"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_ward_hunt.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/ward_hunt.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_john_catron.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/john_catron.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_noah_haynes_swayne.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/noah_haynes_swayne.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_john_jay.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/john_jay.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_john_rutledge.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/john_rutledge.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_charles_evans_hughes.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/charles_evans_hughes.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_samuel_blatchford.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/samuel_blatchford.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_thurgood_marshall.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/thurgood_marshall.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_peter_vivian_daniel.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/peter_vivian_daniel.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_james_iredell.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/james_iredell.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_harry_blackmun.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/harry_blackmun.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_john_marshall_harlan_ii.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/john_marshall_harlan_ii.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_clarence_thomas.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/clarence_thomas.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_horace_harmon_lurton.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/horace_harmon_lurton.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_navigation_forward.png.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/navigation_forward.png"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_william_henry_moody.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/william_henry_moody.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_fred_m_vinson.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/fred_m_vinson.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_lewis_f_powell.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/lewis_f_powell.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_wiley_blount_rutledge.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/wiley_blount_rutledge.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_william_rufus_day.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/william_rufus_day.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_harold_hitz_burton.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/harold_hitz_burton.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_benjamin_robbins_curtis.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/benjamin_robbins_curtis.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_byron_white.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/byron_white.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_howell_e_jackson.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/howell_e_jackson.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_william_strong.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/william_strong.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_david_souter.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/david_souter.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_levi_woodbury.png.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/levi_woodbury.png"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_henry_baldwin.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/henry_baldwin.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_frank_murphy.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/frank_murphy.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_pierce_butler.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/pierce_butler.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_sandra_day_oconnor.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/sandra_day_oconnor.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_william_paterson.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/william_paterson.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_horace_gray.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/horace_gray.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_john_mckinley.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/john_mckinley.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_av_previous.png.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/av_previous.png"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_john_marshall.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/john_marshall.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_henry_brockholst_livingston.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/henry_brockholst_livingston.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_david_davis.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/david_davis.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_arthur_goldberg.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/arthur_goldberg.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_john_g_roberts.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/john_g_roberts.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_mahlon_pitney.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/mahlon_pitney.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_thomas_stanley_matthews.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/thomas_stanley_matthews.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_bushrod_washington.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/bushrod_washington.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_william_j_brennan_jr.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/william_j_brennan_jr.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_robert_h_jackson.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/robert_h_jackson.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_william_burnham_woods.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/william_burnham_woods.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_sherman_minton.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/sherman_minton.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_joseph_philo_bradley.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/joseph_philo_bradley.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_john_marshall_harlan.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/john_marshall_harlan.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_willis_van_devanter.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/willis_van_devanter.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_stephen_johnson_field.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/stephen_johnson_field.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_ic_action_search.png.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/ic_action_search.png"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_james_wilson.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/james_wilson.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_william_o_douglas.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/william_o_douglas.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_thomas_johnson.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/thomas_johnson.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_samuel_chase.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/samuel_chase.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_tom_c_clarke.gif.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/tom_c_clarke.gif"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_thomas_todd.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/thomas_todd.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_nathan_clifford.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/nathan_clifford.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_samuel_freeman_miller.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/samuel_freeman_miller.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_salmon_portland_chase.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/salmon_portland_chase.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_william_cushing.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/william_cushing.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_joseph_story.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/joseph_story.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/layout_customtitle.xml.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/layout/customtitle.xml"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_warren_e_burger.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/warren_e_burger.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_amy_coney_barrett.jpeg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/amy_coney_barrett.jpeg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_hugo_black.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/hugo_black.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_samuel_alito_jr.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/samuel_alito_jr.jpg"
+    },
+    {
+        "merged": "edu.byuh.cis.ussupremecourt.app-debug-12:/drawable-hdpi_joseph_rucker_lamar.jpg.flat",
+        "source": "edu.byuh.cis.ussupremecourt.app-main-14:/drawable-hdpi/joseph_rucker_lamar.jpg"
+    }
+]

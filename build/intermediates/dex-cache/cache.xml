@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/draperg/StudioProjects/Supreme_Court_1.0/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/jars/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="/Users/draperg/StudioProjects/Supreme_Court_1.0/app/build/intermediates/pre-dexed/release/internal_impl-20.0.0_f4e050165e78051b48015a7b942b214495145099.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/draperg/Downloads/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="/Users/draperg/StudioProjects/Supreme_Court_1.0/app/build/intermediates/pre-dexed/release/support-annotations-20.0.0_1bb181e32aba0407d3e1a9e7ba4608f7516ee64a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/draperg/StudioProjects/Supreme_Court_1.0/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="/Users/draperg/StudioProjects/Supreme_Court_1.0/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-20.0.0_9fbf8c053ed48302580a1084c24763bd33f62a87.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/draperg/StudioProjects/Supreme_Court_1.0/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="/Users/draperg/StudioProjects/Supreme_Court_1.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-20.0.0_9fbf8c053ed48302580a1084c24763bd33f62a87/classes.dex" />
+    </item>
+    <item
+        jar="/Users/draperg/StudioProjects/Supreme_Court_1.0/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/jars/libs/internal_impl-20.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="/Users/draperg/StudioProjects/Supreme_Court_1.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-20.0.0_f4e050165e78051b48015a7b942b214495145099/classes.dex" />
+    </item>
+    <item
+        jar="/Users/draperg/StudioProjects/Supreme_Court_1.0/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="9dc435c4b755f0f5a84215c0e9cc28eb6f1b1b79">
+        <dex dex="/Users/draperg/StudioProjects/Supreme_Court_1.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a5ff4d244e73ab2a19b0c1da0d2a50445e362372/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/draperg/StudioProjects/Supreme_Court_1.0/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="9d51a526f221f722446bfa3a6239247ebbad5aa9">
+        <dex dex="/Users/draperg/StudioProjects/Supreme_Court_1.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_bcba1f890a588a27bea439462715dfe6ddef3e7c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/draperg/Downloads/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="/Users/draperg/StudioProjects/Supreme_Court_1.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-20.0.0_1bb181e32aba0407d3e1a9e7ba4608f7516ee64a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/draperg/StudioProjects/Supreme_Court_1.0/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c4ad262b358dc261230c20b8687ed21a18423850">
+        <dex dex="/Users/draperg/StudioProjects/Supreme_Court_1.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a5ff4d244e73ab2a19b0c1da0d2a50445e362372/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/draperg/StudioProjects/Supreme_Court_1.0/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/jars/libs/internal_impl-20.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="/Users/draperg/StudioProjects/Supreme_Court_1.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-20.0.0_f4e050165e78051b48015a7b942b214495145099/classes.dex" />
+    </item>
+    <item
+        jar="/Users/draperg/StudioProjects/Supreme_Court_1.0/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="/Users/draperg/StudioProjects/Supreme_Court_1.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-20.0.0_9fbf8c053ed48302580a1084c24763bd33f62a87/classes.dex" />
+    </item>
+    <item
+        jar="/Users/draperg/Downloads/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="/Users/draperg/StudioProjects/Supreme_Court_1.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-20.0.0_1bb181e32aba0407d3e1a9e7ba4608f7516ee64a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/draperg/StudioProjects/Supreme_Court_1.0/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="a6882b8b766e76d19f5885a653d7d1cd2571e3ca">
+        <dex dex="/Users/draperg/StudioProjects/Supreme_Court_1.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_bcba1f890a588a27bea439462715dfe6ddef3e7c/classes.dex" />
+    </item>
+
+</items>
